@@ -1,7 +1,6 @@
 #  Die Idee:
     Ein kurzes Script um mp4-Dateien in mp3-Dateien umzuwandeln. Die Dateien werden
-    in einen Zwischenordner verschoben. Wahlweise liegen dort  sowie so die
-    eigenen Musik - Ordner.
+    in einen Zwischenordner verschoben.
     Die mp4-Dateien werden im aktuellen Verzeichnis gesucht.
     
 # Dependencies:
