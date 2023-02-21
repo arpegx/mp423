@@ -23,5 +23,5 @@ mp423(){
 
 # MAIN---------------------------------------------------------------
 
-# Get the thing done
+# GTD : Get the thing done
 mp423
